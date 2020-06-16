@@ -7,3 +7,6 @@ Requests library- use to make requests to given URL
 BeautifulSoup-use to pull out data from html file
 Flask Api - is used to load data into html template.
 Bootstrap - used as a frontend to show data. 
+
+Scrapdata.py file contains nothing erverthing is there in app.py and templates file
+
