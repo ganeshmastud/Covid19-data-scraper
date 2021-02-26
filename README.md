@@ -1,4 +1,4 @@
-# Covid19WebappByWebScrapping
+# Covid19 data scraper
 
 #Covid19 data scraper.
 Live data gather from Worldmeter website.
